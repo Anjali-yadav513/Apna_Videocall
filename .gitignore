@@ -1,3 +1,6 @@
 frontend/node_modules
+<<<<<<< HEAD
 frontend/public
+=======
+>>>>>>> a3b82a9a0144f3c53bc0b6dd0d0e1711d966d107
 backend/node_modules
